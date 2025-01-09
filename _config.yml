@@ -1,9 +1,9 @@
-title:              Clean Blog
-email:              your-email@example.com
+title:              Blocks
+email:              codbs2048@gmail.com
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+author:             배채윤
+baseurl:            "/main"
+url:                "https://yuni2048.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
